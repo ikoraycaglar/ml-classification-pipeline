@@ -35,7 +35,6 @@ machine-learning/
 ├── train.py                 # 5-Fold Stratified CV training and model export script
 ├── predict.py               # Command-line inference script for test predictions
 ├── sample_test.csv          # Sample input features for instant testing
-└── students.txt             # Student verification and identification details
 ```
 
 ---
